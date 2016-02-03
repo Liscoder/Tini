@@ -1,0 +1,107 @@
+.presentation{
+	background-color:#FCCE09;
+	height: 650px;
+}
+.sumate{
+	height:40px;
+	background-color:#FCBA43;
+	text-align: center;
+	color:white;
+	top:50px;
+	left:150px;
+	position: relative;
+	padding-top:10px;
+}
+.hiper{
+	float:right; 
+	position: relative;
+	top:50px;
+
+}
+nav a{
+	text-decoration: none;
+	color:white;
+	margin:8px;
+}
+.laboratoria{
+	color:white;
+	font-size: 30px;
+	padding-bottom: 8px;
+	font-family: arial;
+	font-weight: bold;
+}
+.datos{
+	position: relative;
+	top:240px;
+}
+.portafolio{
+	color: white;
+	font-size: 14px;
+	font-family: arial;
+	font-size: 14px;
+}
+.cajas{
+	background-color: #EAEAE9;
+	height: 1300px;
+	margin:0 auto 0 auto;
+}
+.images{
+	padding-top:40px;
+}
+.margen{
+	margin-left: 50px;
+
+}
+.individual{
+	height: 300px;
+	width: 300px;
+	background-color: #CCCCCC;
+}
+.ejemplo{
+	color:#868683;
+	padding:5px 0 5px 0;
+	font-size: 26px;
+	font-family: italic;
+	font-weight: bold;
+}
+.description{
+	color:#C1C1C1
+}
+.izquierda{
+	padding:0 20% 0 20%;
+}
+.leer{
+	background-color:#FCBA43;
+	margin: 25px 30%;
+	padding: 10px;
+}
+.leer p{
+	color:white;
+}
+.pie{
+	background-color:#262624;
+	clear:both;
+	height: 90px;
+	padding-top: 30px;
+}
+.espacio{
+	background-color: #FFFFFF;
+	height: 550px;
+	padding-top: 40px;
+	margin-top: 50px;
+}
+.longitud{
+	margin: 0 auto;
+}
+.longitud p{
+	color:#9B9B9B;
+	font-size: 24px;
+	font-family: bold;
+	font-weight: bold;	
+}
+.individual{
+	 position:relative;
+	 left:30px;
+	 margin:0 auto;
+	 padding-top:150px;
+}
